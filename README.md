@@ -47,7 +47,7 @@ Le site détaille les sections suivantes :
 3.  **💼 Expérience :** Stages et responsabilités associatives (Leadership).
 4.  **🚀 Projets :** Participation aux CTF (Root-Me), Développement Web sécurisé, Projets Fab-Lab.
 5.  **⚡ Compétences :**
-    * *Cyber :* Pentesting, Ethical Hacking, Réseaux.
+    * *Cyber :* Réseaux.
     * *Tech :* C, Python, Web, Linux/Windows.
 6.  **🏆 Certifications :** PIX, PCS1, Permis.
 
