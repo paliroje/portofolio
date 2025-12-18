@@ -17,10 +17,7 @@
 
 ## 📝 À propos
 
-Ce projet est une présentation numérique de mon parcours, développée **"from scratch"** (sans framework lourd) pour allier performance et design.
-
-L'interface a été conçue avec une esthétique **Cyberpunk / Dark Mode**, utilisant des dégradés sombres et des accents néons (`#00d4ff` et `#7b2cbf`) pour refléter mon univers professionnel : la sécurité informatique.
-
+Ce projet est une présentation numérique de mon parcours. 
 ### 🎯 Objectif
 Je suis actuellement à la recherche d'un **stage de 8 semaines en Cybersécurité** (Pentesting, SecOps, Analyse de vulnérabilités) pour mettre en pratique mes compétences offensives et défensives.
 
